@@ -1,2 +1,2 @@
 # hello-world
-Denne er en test
+This is a test.
